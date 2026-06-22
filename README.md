@@ -40,7 +40,7 @@ Passionate about AI, Data Science, and Full Stack Development. I enjoy building 
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/barath-03-05-2006
-- LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/barath-s-03-may-2k6/)
+- LinkedIn: [https://linkedin.com/in/Barath](https://www.linkedin.com/in/barath-s-03-may-2k6/)
 - Email: barathsundaresan03@gmail.com
 
 ---

@@ -91,12 +91,6 @@ A gaming platform that allows users to:
 - Advanced Spring Boot
 - Full Stack Development
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=barath-03-05-2006&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barath-03-05-2006&layout=compact)
-
 ## 🎯 Career Goals
 
 - Become an AI Engineer

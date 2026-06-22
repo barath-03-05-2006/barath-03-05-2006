@@ -31,7 +31,6 @@ Passionate about AI, Data Science, and Full Stack Development. I enjoy building 
 |----------|------------|
 | 🎮 ProPlay Arena | Gaming platform for tournaments and pro-player booking |
 | 🥗 Dietitian Management System | Diet planning, client tracking, and analytics dashboard |
-| 📈 Nutrition Tracker | Meal tracking with nutrition insights and reports |
 | 🤖 AI & Data Science Projects | Machine learning and data analysis projects |
 
 ## 🌱 Currently Learning
@@ -40,9 +39,9 @@ Passionate about AI, Data Science, and Full Stack Development. I enjoy building 
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: YOUR_EMAIL
+- GitHub: https://github.com/barath-03-05-2006
+- LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/barath-s-03-may-2k6/)
+- Email: barathsundaresan03@gmail.com
 
 ---
 ⭐ Building, Learning, and Growing Every Day.
